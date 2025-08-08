@@ -1,0 +1,4 @@
+baseURL = "https://winery2g.pages.dev/"
+languageCode = "ja"
+title = "ワイナリーの四季をきっかけにワインの基礎を備忘録でまとめた"
+theme = "ananke"
