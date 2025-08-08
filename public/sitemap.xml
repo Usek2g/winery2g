@@ -4,8 +4,16 @@
   <url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/posts/ori/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E3%83%AF%E3%82%A4%E3%83%B3%E3%81%AE%E7%A8%AE%E9%A1%9E/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E7%94%A8%E8%AA%9E/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/red/</loc>
   </url>
 </urlset>
