@@ -1,4 +1,17 @@
 baseURL = "https://winery2g.pages.dev/"
 languageCode = "ja"
-title = "ワイナリーの四季をきっかけに学んだワインの基礎知識を記録しています"
-theme = "ananke"
+title = "winery2g"
+theme = "mainroad"
+
+[params]
+  description = "このサイトはボードゲーム「ワイナリーの四季」を遊んだことをきっかけに、僕が学んだワインの基礎知識や、ワイナリーの四季のプレイ日記をまとめたものです。"
+  toc = true
+
+[params.sidebar]
+  home = "right"
+  list = "right"
+  single = true
+  widgets = ["recent", "categories"]
+
+[params.widgets]
+  recent_num = 5

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ニュージーランド on winery2g</title>
+    <link>http://localhost:1313/tags/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89/</link>
+    <description>Recent content in ニュージーランド on winery2g</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <atom:link href="http://localhost:1313/tags/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ソーヴィニヨン・ブラン</title>
+      <link>http://localhost:1313/posts/kinds_of_grapes/sauvignon-blanc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/kinds_of_grapes/sauvignon-blanc/</guid>
+      <description>&lt;h1 id=&#34;ワインの品種&#34;&gt;ワインの品種&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/write&#34;&gt;白ワイン&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;主な産地&#34;&gt;主な産地&lt;/h1&gt;&#xA;&lt;p&gt;ボルドー、&lt;a href=&#34;http://localhost:1313/posts/producing_area/newzealand&#34;&gt;ニュージーランド&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;味の特徴&#34;&gt;味の特徴&lt;/h1&gt;&#xA;&lt;p&gt;辛口、甘口、フレッシュな酸味&lt;/p&gt;&#xA;&lt;h1 id=&#34;香りの要素&#34;&gt;香りの要素&lt;/h1&gt;&#xA;&lt;p&gt;完熟するとグレープフルーツ、ライム&lt;/p&gt;&#xA;&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;&#xA;&lt;p&gt;香りが独特。「青草」「ハーブ」**「雄猫」**と形容される。この香りはメトキシピラジンという成分による&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ニュージーランド</title>
+      <link>http://localhost:1313/posts/producing_area/newzealand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/producing_area/newzealand/</guid>
+      <description>&lt;p&gt;昼夜の温暖の差が大きいので、酸味を失わず、凝縮された果実味を持つバランスの良いワインが作られている&#xA;白のソーヴィニヨン・ブランと赤の&lt;a href=&#34;http://localhost:1313/posts/kinds_of_grapes/pinot-noir&#34;&gt;ピノ・ノワール&lt;/a&gt;が有名。&lt;/p&gt;&#xA;&lt;h3 id=&#34;代表産地&#34;&gt;代表産地&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;オークランド&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ワイカト&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ギズボーン&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ホークス・ベイ&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ウェリントン&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;マルボロ&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/kinds_of_grapes/sauvignon-blanc&#34;&gt;ソーヴィニヨン・ブラン&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;カンタベリ&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;セントラル・オタゴ&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ピノ・ノワール&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
