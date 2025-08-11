@@ -1,7 +1,10 @@
 baseURL = "https://winery2g.pages.dev/"
 languageCode = "ja"
-title = "winery2g"
+title = "ワイナリー2g"
 theme = "mainroad"
+
+hasCJKLanguage = true # 日本語・中国語・韓国語の単語カウントを有効にする
+summaryLength = 60 # サマリーの長さを60単語にする
 
 [params]
   description = "このサイトはボードゲーム「ワイナリーの四季」を遊んだことをきっかけに、僕が学んだワインの基礎知識や、ワイナリーの四季のプレイ日記をまとめたものです。"

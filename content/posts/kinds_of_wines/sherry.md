@@ -1,6 +1,7 @@
 ---
 title: シェリー酒
 categories: ワインの種類
+thumbnail: "img/no_image_logo.jpg"
 tags:
   - シェリー酒
 ---

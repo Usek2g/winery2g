@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>赤ワイン on winery2g</title>
+    <title>赤ワイン on ワイナリー2g</title>
     <link>http://localhost:1313/tags/%E8%B5%A4%E3%83%AF%E3%82%A4%E3%83%B3/</link>
-    <description>Recent content in 赤ワイン on winery2g</description>
+    <description>Recent content in 赤ワイン on ワイナリー2g</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <atom:link href="http://localhost:1313/tags/%E8%B5%A4%E3%83%AF%E3%82%A4%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
@@ -40,7 +40,7 @@
       <link>http://localhost:1313/posts/kinds_of_grapes/pinot-noir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/kinds_of_grapes/pinot-noir/</guid>
-      <description>&lt;h1 id=&#34;ワインの品種&#34;&gt;ワインの品種&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/red&#34;&gt;赤ワイン&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;主な産地&#34;&gt;主な産地&lt;/h1&gt;&#xA;&lt;p&gt;ブルゴーニュ、&lt;a href=&#34;http://localhost:1313/posts/producing_area/germany&#34;&gt;ドイツ&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;味の特徴&#34;&gt;味の特徴&lt;/h1&gt;&#xA;&lt;p&gt;ライトボディ、弱めの渋み&lt;/p&gt;&#xA;&lt;h1 id=&#34;香りの要素&#34;&gt;香りの要素&lt;/h1&gt;&#xA;&lt;p&gt;若いうちはイチゴやラズベリー&#xA;熟成するとシナモン、なめし皮、ジビエなど&lt;/p&gt;&#xA;&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/kinds_of_grapes/cabernet-sauvignon&#34;&gt;カベルネ・ソーヴィニョン&lt;/a&gt;と双璧をなす代表的な赤ワイン用ブドウ品種の一つ。&#xA;粒が小さいので成熟が早い。&#xA;糖度が高いのが特徴。&#xA;高級ワイン「ロマネ・コンティ」や高級シャンパーニュの「ドン・ペリニョン」で使われる。&lt;/p&gt;&#xA;&lt;h1 id=&#34;備考&#34;&gt;備考&lt;/h1&gt;&#xA;&lt;p&gt;&amp;ldquo;ノワール&amp;quot;とは&amp;quot;黒&amp;quot;という意味。&#xA;イタリアでは「ピノ・ネロ」、ドイツでは「シュペートブルグンダー」と呼ばれる。&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;ワインの品種&#34;&gt;ワインの品種&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/red&#34;&gt;赤ワイン&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;主な産地&#34;&gt;主な産地&lt;/h1&gt;&#xA;&lt;p&gt;ブルゴーニュ、&lt;a href=&#34;http://localhost:1313/posts/producing_area/germany&#34;&gt;ドイツ&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;味の特徴&#34;&gt;味の特徴&lt;/h1&gt;&#xA;&lt;p&gt;ライトボディ、弱めの渋み&lt;/p&gt;&#xA;&lt;h1 id=&#34;香りの要素&#34;&gt;香りの要素&lt;/h1&gt;&#xA;&lt;p&gt;若いうちはイチゴやラズベリー&#xA;熟成するとシナモン、なめし皮、ジビエなど&lt;/p&gt;&#xA;&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/kinds_of_grapes/cabernet-sauvignon&#34;&gt;カベルネ・ソーヴィニョン&lt;/a&gt;と双璧をなす代表的な赤ワイン用ブドウ品種の一つ。&#xA;粒が小さいので成熟が早い。&#xA;糖度が高いのが特徴。&#xA;高級ワイン「ロマネ・コンティ」や高級シャンパーニュの「ドン・ペリニョン」で使われる。&lt;/p&gt;</description>
     </item>
     <item>
       <title>メルロー</title>
@@ -54,7 +54,7 @@
       <link>http://localhost:1313/posts/kinds_of_wines/red/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/kinds_of_wines/red/</guid>
-      <description>&lt;h1 id=&#34;作り方&#34;&gt;作り方&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;黒ブドウの&lt;!-- raw HTML omitted --&gt;皮ごと&lt;!-- raw HTML omitted --&gt;（破砕後）発酵桶に入れて酵母を入れて発酵させる。&lt;/li&gt;&#xA;&lt;li&gt;発酵が終わったら圧搾して果皮や果肉を取り除く&lt;/li&gt;&#xA;&lt;li&gt;樽やステンレスタンクで熟成させる。不純物（&lt;a href=&#34;http://localhost:1313/posts/words/ori&#34;&gt;オリ&lt;/a&gt;）を取り除く&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;特徴&#34;&gt;特徴&lt;/h1&gt;&#xA;&lt;p&gt;ワインの王道。渋みとコク&lt;/p&gt;&#xA;&lt;p&gt;赤ワインの味わいは「ボディ」という言葉で表現される&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;フルボディ&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/kinds_of_grapes/cabernet-sauvignon&#34;&gt;カベルネ・ソーヴィニヨン&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;ミディアムボディ&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/kinds_of_grapes/pinot-noir&#34;&gt;ピノ・ノワール&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;ライトボディ&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ボジョレー・ヌーヴォー&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;飲み方&#34;&gt;飲み方&lt;/h1&gt;&#xA;&lt;p&gt;常温で飲む。冷やすほど渋みが強くなるため&#xA;とはいえ、この常識は何世紀も前のフランスの話。現代日本の常温はずっと暖かい。&#xA;&lt;a href=&#34;http://localhost:1313/posts/knowledge/storage&#34;&gt;保管方法&lt;/a&gt;にもあるように、15℃前後で飲むのが良いとされる。&lt;/p&gt;&#xA;&lt;h1 id=&#34;合う料理&#34;&gt;合う料理&lt;/h1&gt;&#xA;&lt;p&gt;肉料理&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;作り方&#34;&gt;作り方&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;黒ブドウの&lt;!-- raw HTML omitted --&gt;皮ごと&lt;!-- raw HTML omitted --&gt;（破砕後）発酵桶に入れて酵母を入れて発酵させる。&lt;/li&gt;&#xA;&lt;li&gt;発酵が終わったら圧搾して果皮や果肉を取り除く&lt;/li&gt;&#xA;&lt;li&gt;樽やステンレスタンクで熟成させる。不純物（&lt;a href=&#34;http://localhost:1313/posts/words/ori&#34;&gt;オリ&lt;/a&gt;）を取り除く&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;特徴&#34;&gt;特徴&lt;/h1&gt;&#xA;&lt;p&gt;ワインの王道。渋みとコク&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

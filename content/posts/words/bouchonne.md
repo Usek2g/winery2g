@@ -1,7 +1,7 @@
 ---
 title: ブショネ
 categories: 用語
-thumbnail: "img/no_image_logo.png"
+thumbnail: "img/no_image_logo.jpg"
 tags:
   - ワイン用語
 ---

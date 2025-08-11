@@ -1,6 +1,7 @@
 ---
 title: 白ワイン
 categories: ワインの種類
+thumbnail: "img/white_wine.png"
 tags:
   - 白ワイン
 ---

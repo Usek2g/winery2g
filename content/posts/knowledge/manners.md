@@ -1,7 +1,7 @@
 ---
 title: マナー
 categories: ワイン知識
-thumbnail: "img/mannners.png"
+thumbnail: "img/manners.png"
 tags:
   - マナー
 ---

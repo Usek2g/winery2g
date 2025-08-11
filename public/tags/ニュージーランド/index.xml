@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ニュージーランド on winery2g</title>
+    <title>ニュージーランド on ワイナリー2g</title>
     <link>http://localhost:1313/tags/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89/</link>
-    <description>Recent content in ニュージーランド on winery2g</description>
+    <description>Recent content in ニュージーランド on ワイナリー2g</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <atom:link href="http://localhost:1313/tags/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
@@ -19,7 +19,7 @@
       <link>http://localhost:1313/posts/producing_area/newzealand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/producing_area/newzealand/</guid>
-      <description>&lt;p&gt;昼夜の温暖の差が大きいので、酸味を失わず、凝縮された果実味を持つバランスの良いワインが作られている&#xA;白のソーヴィニヨン・ブランと赤の&lt;a href=&#34;http://localhost:1313/posts/kinds_of_grapes/pinot-noir&#34;&gt;ピノ・ノワール&lt;/a&gt;が有名。&lt;/p&gt;&#xA;&lt;h3 id=&#34;代表産地&#34;&gt;代表産地&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;オークランド&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ワイカト&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ギズボーン&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ホークス・ベイ&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ウェリントン&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;マルボロ&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/kinds_of_grapes/sauvignon-blanc&#34;&gt;ソーヴィニヨン・ブラン&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;カンタベリ&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;セントラル・オタゴ&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ピノ・ノワール&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;昼夜の温暖の差が大きいので、酸味を失わず、凝縮された果実味を持つバランスの良いワインが作られている&#xA;白のソーヴィニヨン・ブランと赤の&lt;a href=&#34;http://localhost:1313/posts/kinds_of_grapes/pinot-noir&#34;&gt;ピノ・ノワール&lt;/a&gt;が有名。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
