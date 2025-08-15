@@ -43,6 +43,13 @@
       <description>&lt;p&gt;ワインにおける「オリ（澱）」とは、ワインの成分が熟成の過程で結晶化したり、沈殿したりした固形物のこと。&#xA;主に赤ワインでよく見られるが、白ワインにも発生することがある。&lt;/p&gt;</description>
     </item>
     <item>
+      <title>オレンジワイン</title>
+      <link>http://localhost:1313/posts/kinds_of_wines/orange/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/kinds_of_wines/orange/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/write&#34;&gt;白ワイン&lt;/a&gt;、&lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/red&#34;&gt;赤ワイン&lt;/a&gt;、&lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/rose&#34;&gt;ロゼワイン&lt;/a&gt;に続く「第4のワイン」として、近年注目を集めているワイン。&#xA;&lt;strong&gt;柑橘類のオレンジを使って造るわけではない&lt;/strong&gt;。 白ブドウを使って、赤ワインと同じ醸造方法で造られることが最大の特徴&lt;/p&gt;&#xA;&lt;h2 id=&#34;製法&#34;&gt;製法&lt;/h2&gt;&#xA;&lt;p&gt;白ワインは、白ブドウを収穫後、すぐに圧搾して果皮や種を取り除き、果汁のみを発酵させて造られる。そのため、色は淡く、渋み（タンニン）はほとんどない。&#xA;一方、オレンジワインは、白ブドウを破砕し、果汁、果皮、種子を一緒に漬け込んで発酵させる。 この「果皮と一緒に漬け込む」工程は赤ワインの醸造方法と同じ。この醸造により果皮に含まれる色素やタンニン、旨味成分がワインに抽出され、独特のオレンジがかった色合いと複雑な風味が生まれる。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>カベルネ・ソーヴィニヨン</title>
       <link>http://localhost:1313/posts/kinds_of_grapes/cabernet-sauvignon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -61,7 +68,7 @@
       <link>http://localhost:1313/posts/kinds_of_wines/sherry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/kinds_of_wines/sherry/</guid>
-      <description>&lt;p&gt;スペイン南部のアンダルシア地方、特にヘレスとその周辺地域で造られる、独特の製法を持つ酒精強化ワイン。ポルトガルのポートワイン、イタリアのマルサラワインと並んで「世界三大酒精強化ワイン」の一つに数えられる。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/producing_area/spain&#34;&gt;スペイン&lt;/a&gt;南部のアンダルシア地方、特にヘレスとその周辺地域で造られる、独特の製法を持つ酒精強化ワイン。ポルトガルのポートワイン、&lt;a href=&#34;http://localhost:1313/posts/producing_area/italy&#34;&gt;イタリア&lt;/a&gt;のマルサラワインと並んで「世界三大酒精強化ワイン」の一つに数えられる。&lt;/p&gt;&#xA;&lt;h2 id=&#34;酒精強化ワインとは&#34;&gt;酒精強化ワインとは&lt;/h2&gt;&#xA;&lt;p&gt;通常のワインは、ブドウ果汁を発酵させて造られるが、酒精強化ワインは醸造の途中でアルコール度数の高いブランデーなどを添加する。これによりアルコール度数が高まり（シェリー酒は通常15〜22度）、ワインの保存性が高まるとともに、独特の風味や甘みが生まれる。&lt;/p&gt;</description>
     </item>
     <item>
       <title>シャルドネ</title>
@@ -127,6 +134,20 @@
       <description>&lt;p&gt;チリワインの特徴はほとんどのブドウが手摘み。チリ以外では人件費と時間の関係上、高級ワインでしかできない。&#xA;チリはオーガニック栽培も盛ん。チリの夏はとても乾燥しているため、ブドウの収穫に近い秋口に、湿度やカビや菌による汚染を防ぐ防腐剤を必要としない。&#xA;世界有数の大手ワイナリーが10社強、中規模ワイナリーが50社前後あり、有数のワインメーカーがワイン作成を手掛けている。&lt;/p&gt;</description>
     </item>
     <item>
+      <title>デカンタージュ</title>
+      <link>http://localhost:1313/posts/words/decantage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/words/decantage/</guid>
+      <description>&lt;p&gt;ワインを瓶からデカンタ（画像）に移し替えること。&lt;/p&gt;&#xA;&lt;h2 id=&#34;目的&#34;&gt;目的&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-澱おりを取り除く&#34;&gt;1. 澱（おり）を取り除く&lt;/h3&gt;&#xA;&lt;p&gt;長期熟成されたワインには、色素やタンニンなどが結晶化した&lt;a href=&#34;http://localhost:1313/posts/words/ori&#34;&gt;澱&lt;/a&gt;が沈殿していることがある。澱は口当たりが悪く、ざらついた感触があるため、デカンタージュによって澱をグラスに入らないようにする。熟成された&lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/red&#34;&gt;赤ワイン&lt;/a&gt;が対象。&#xA;光にかざしながらゆっくりと静かにワインをデカンタに注ぎ、澱が瓶口に近づいてきたら注ぐのをやめる。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>テロワール</title>
+      <link>http://localhost:1313/posts/words/terroir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/words/terroir/</guid>
+      <description>&lt;p&gt;ワインをはじめとする農産物の個性を形づくる、複合的な自然環境要因を指す言葉。単に「土壌」や「気候」といった一つの要素ではなく、複数の要素が組み合わさってその土地独自の風味や特徴を生み出すと考えられている。&#xA;テロワールは、同じブドウ品種を使っていても、産地が違えばまったく異なる味わいのワインが生まれる理由を説明する上重要な概念。&#xA;例えば、ブルゴーニュ地方のピノ・ノワールと、カリフォルニアのピノ・ノワールは、テロワールの違いによって異なる個性を持つワインになる。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>テンプラニーリョ</title>
       <link>http://localhost:1313/posts/kinds_of_grapes/tempranillo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -152,7 +173,7 @@
       <link>http://localhost:1313/posts/words/bulkwine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/words/bulkwine/</guid>
-      <description></description>
+      <description>&lt;p&gt;詰めされていない状態で、大型の容器（タンクやコンテナなど）で取引・輸送されるワイン。&#xA;通常、ワインは生産地で瓶詰めされてから消費地へ運ばれるが、バルクワインは、大型容器で輸入された後に消費地で瓶詰めされる。&lt;/p&gt;</description>
     </item>
     <item>
       <title>ピノ・グリ</title>
@@ -181,6 +202,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/producing_area/france/</guid>
       <description>&lt;p&gt;生産量、輸出量、品質とも世界一&#xA;フランスを買っておけば安心。なぜなら、1935年に生まれたAOC法（格付け法）が厳格に品質を担保。&#xA;土壌、地勢、気候すべてがワインに適している。&#xA;大西洋に近い「ボルドー」とスイスの西側「ブルゴーニュ」がまったく異なる個性を持ちながらもフランスワインの典型的な魅力を備えている。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>フレーバードワイン</title>
+      <link>http://localhost:1313/posts/kinds_of_wines/aromatised/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/kinds_of_wines/aromatised/</guid>
+      <description>&lt;p&gt;ワインにハーブ、スパイス、果実、樹皮、薬草などの香味成分や甘味料を加えて造られるお酒の総称。&lt;/p&gt;&#xA;&lt;h2 id=&#34;特徴&#34;&gt;特徴&lt;/h2&gt;&#xA;&lt;p&gt;ベースとなるワイン: スティルワイン（&lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/write&#34;&gt;白ワイン&lt;/a&gt;、&lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/red&#34;&gt;赤ワイン&lt;/a&gt;）が使われることが多い。&lt;/p&gt;</description>
     </item>
     <item>
       <title>マナー</title>
@@ -257,7 +285,7 @@
       <link>http://localhost:1313/posts/producing_area/japan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/producing_area/japan/</guid>
-      <description>&lt;h1 id=&#34;代表産地&#34;&gt;代表産地&lt;/h1&gt;&#xA;&lt;h2 id=&#34;北海道&#34;&gt;北海道&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ケルナー種など気候の似ているドイツ系品種が栽培。&lt;/li&gt;&#xA;&lt;li&gt;高品質なのに価格が手軽なのも特徴。&lt;/li&gt;&#xA;&lt;li&gt;「十勝ワイン」は有名。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;山形県&#34;&gt;山形県&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;実はブドウの生産に恵まれていて、ワイナリーもある。&lt;/li&gt;&#xA;&lt;li&gt;「天童ワイン」が有名。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;山梨県&#34;&gt;山梨県&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;国産ワインの中心地。日本の約40%のシェアを誇る。&lt;/li&gt;&#xA;&lt;li&gt;「甲州」や「マスカット・べりーA」など日本固有品種を使った純国産ワインの製造に力を入れている&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;長野県&#34;&gt;長野県&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;山梨に負けないシェア。&lt;/li&gt;&#xA;&lt;li&gt;山梨と異なり、メルローや&lt;a href=&#34;http://localhost:1313/posts/kinds_of_grapes/chardonnay&#34;&gt;シャルドネ&lt;/a&gt;などヨーロッパの品種に力を入れている。&lt;/li&gt;&#xA;&lt;li&gt;原産地呼称管理制度「長野AOC」を設けてブランド化&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;神奈川、栃木がワインの生産量は全国1，2位らしい。次いで山梨、岡山、長野と続く。&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;代表産地&#34;&gt;代表産地&lt;/h1&gt;&#xA;&lt;h2 id=&#34;北海道&#34;&gt;北海道&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ケルナー種など気候の似ている&lt;a href=&#34;http://localhost:1313/posts/producing_area/germany&#34;&gt;ドイツ&lt;/a&gt;系品種が栽培。&lt;/li&gt;&#xA;&lt;li&gt;高品質なのに価格が手軽なのも特徴。&lt;/li&gt;&#xA;&lt;li&gt;「十勝ワイン」は有名。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;山形県&#34;&gt;山形県&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;実はブドウの生産に恵まれていて、ワイナリーもある。&lt;/li&gt;&#xA;&lt;li&gt;「天童ワイン」が有名。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;山梨県&#34;&gt;山梨県&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;国産ワインの中心地。日本の約40%のシェアを誇る。&lt;/li&gt;&#xA;&lt;li&gt;「甲州」や「マスカット・ベリーA」など日本固有品種を使った純国産ワインの製造に力を入れている&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;長野県&#34;&gt;長野県&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;山梨に負けないシェア。&lt;/li&gt;&#xA;&lt;li&gt;山梨と異なり、&lt;a href=&#34;http://localhost:1313/posts/kinds_of_grapes/merlot&#34;&gt;メルロー&lt;/a&gt;や&lt;a href=&#34;http://localhost:1313/posts/kinds_of_grapes/chardonnay&#34;&gt;シャルドネ&lt;/a&gt;などヨーロッパの品種に力を入れている。&lt;/li&gt;&#xA;&lt;li&gt;原産地呼称管理制度「長野AOC」を設けてブランド化。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;神奈川、栃木がワインの生産量は全国1，2位らしい。次いで山梨、岡山、長野と続く。&lt;/p&gt;</description>
     </item>
     <item>
       <title>炭酸ガス吹込み方式</title>

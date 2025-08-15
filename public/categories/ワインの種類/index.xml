@@ -8,11 +8,18 @@
     <language>ja</language>
     <atom:link href="http://localhost:1313/categories/%E3%83%AF%E3%82%A4%E3%83%B3%E3%81%AE%E7%A8%AE%E9%A1%9E/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>オレンジワイン</title>
+      <link>http://localhost:1313/posts/kinds_of_wines/orange/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/kinds_of_wines/orange/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/write&#34;&gt;白ワイン&lt;/a&gt;、&lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/red&#34;&gt;赤ワイン&lt;/a&gt;、&lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/rose&#34;&gt;ロゼワイン&lt;/a&gt;に続く「第4のワイン」として、近年注目を集めているワイン。&#xA;&lt;strong&gt;柑橘類のオレンジを使って造るわけではない&lt;/strong&gt;。 白ブドウを使って、赤ワインと同じ醸造方法で造られることが最大の特徴&lt;/p&gt;&#xA;&lt;h2 id=&#34;製法&#34;&gt;製法&lt;/h2&gt;&#xA;&lt;p&gt;白ワインは、白ブドウを収穫後、すぐに圧搾して果皮や種を取り除き、果汁のみを発酵させて造られる。そのため、色は淡く、渋み（タンニン）はほとんどない。&#xA;一方、オレンジワインは、白ブドウを破砕し、果汁、果皮、種子を一緒に漬け込んで発酵させる。 この「果皮と一緒に漬け込む」工程は赤ワインの醸造方法と同じ。この醸造により果皮に含まれる色素やタンニン、旨味成分がワインに抽出され、独特のオレンジがかった色合いと複雑な風味が生まれる。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>シェリー酒</title>
       <link>http://localhost:1313/posts/kinds_of_wines/sherry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/kinds_of_wines/sherry/</guid>
-      <description>&lt;p&gt;スペイン南部のアンダルシア地方、特にヘレスとその周辺地域で造られる、独特の製法を持つ酒精強化ワイン。ポルトガルのポートワイン、イタリアのマルサラワインと並んで「世界三大酒精強化ワイン」の一つに数えられる。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/producing_area/spain&#34;&gt;スペイン&lt;/a&gt;南部のアンダルシア地方、特にヘレスとその周辺地域で造られる、独特の製法を持つ酒精強化ワイン。ポルトガルのポートワイン、&lt;a href=&#34;http://localhost:1313/posts/producing_area/italy&#34;&gt;イタリア&lt;/a&gt;のマルサラワインと並んで「世界三大酒精強化ワイン」の一つに数えられる。&lt;/p&gt;&#xA;&lt;h2 id=&#34;酒精強化ワインとは&#34;&gt;酒精強化ワインとは&lt;/h2&gt;&#xA;&lt;p&gt;通常のワインは、ブドウ果汁を発酵させて造られるが、酒精強化ワインは醸造の途中でアルコール度数の高いブランデーなどを添加する。これによりアルコール度数が高まり（シェリー酒は通常15〜22度）、ワインの保存性が高まるとともに、独特の風味や甘みが生まれる。&lt;/p&gt;</description>
     </item>
     <item>
       <title>スパークリングワイン</title>
@@ -20,6 +27,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/kinds_of_wines/sparkling/</guid>
       <description>&lt;h1 id=&#34;作り方&#34;&gt;作り方&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;黒ブドウ・白ブドウを使って &lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/write&#34;&gt;白ワイン&lt;/a&gt;を作る。&lt;/li&gt;&#xA;&lt;li&gt;圧搾機で果汁のみを絞り出す。&lt;/li&gt;&#xA;&lt;li&gt;果汁をタンクなどに移して発酵させる。途中で不純物（&lt;a href=&#34;http://localhost:1313/posts/words/ori&#34;&gt;オリ&lt;/a&gt;）を取り除く。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;以下の方式がある&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>フレーバードワイン</title>
+      <link>http://localhost:1313/posts/kinds_of_wines/aromatised/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/kinds_of_wines/aromatised/</guid>
+      <description>&lt;p&gt;ワインにハーブ、スパイス、果実、樹皮、薬草などの香味成分や甘味料を加えて造られるお酒の総称。&lt;/p&gt;&#xA;&lt;h2 id=&#34;特徴&#34;&gt;特徴&lt;/h2&gt;&#xA;&lt;p&gt;ベースとなるワイン: スティルワイン（&lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/write&#34;&gt;白ワイン&lt;/a&gt;、&lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/red&#34;&gt;赤ワイン&lt;/a&gt;）が使われることが多い。&lt;/p&gt;</description>
     </item>
     <item>
       <title>ロゼワイン</title>

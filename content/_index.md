@@ -12,7 +12,7 @@ title: ワイナリー2g
 - [ゼロから分かるワイン入門](https://amzn.asia/d/2nr89cn)
 - [神の雫　ワイン知ったかBOOK](https://amzn.asia/d/4i2nvPZ)
 
-#### 画像利用
+##### 画像利用
 
 - [いらすとや](https://irasutoya.com)
 - [フリー素材.com](https://www.free-materials.com/)

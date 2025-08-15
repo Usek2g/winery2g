@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>フレーバードワイン on ワイナリー2g</title>
+    <link>http://localhost:1313/tags/%E3%83%95%E3%83%AC%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89%E3%83%AF%E3%82%A4%E3%83%B3/</link>
+    <description>Recent content in フレーバードワイン on ワイナリー2g</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <atom:link href="http://localhost:1313/tags/%E3%83%95%E3%83%AC%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89%E3%83%AF%E3%82%A4%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>フレーバードワイン</title>
+      <link>http://localhost:1313/posts/kinds_of_wines/aromatised/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/kinds_of_wines/aromatised/</guid>
+      <description>&lt;p&gt;ワインにハーブ、スパイス、果実、樹皮、薬草などの香味成分や甘味料を加えて造られるお酒の総称。&lt;/p&gt;&#xA;&lt;h2 id=&#34;特徴&#34;&gt;特徴&lt;/h2&gt;&#xA;&lt;p&gt;ベースとなるワイン: スティルワイン（&lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/write&#34;&gt;白ワイン&lt;/a&gt;、&lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/red&#34;&gt;赤ワイン&lt;/a&gt;）が使われることが多い。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

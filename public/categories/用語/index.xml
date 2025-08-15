@@ -43,11 +43,25 @@
       <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/rose&#34;&gt;ロゼワイン&lt;/a&gt;の製造方法の一つで、赤ワインの製造工程を応用したもの。&#xA;&lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/red&#34;&gt;赤ワイン&lt;/a&gt;を造る際に、果皮と果汁を一緒に漬け込んで色や成分を抽出する過程で、まだ色が薄い段階の果汁の一部を抜き取って、それを発酵させてロゼワインにする製法。&lt;/p&gt;&#xA;&lt;h1 id=&#34;特徴&#34;&gt;特徴&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;色合い： 果皮に触れる時間が長いため、直接圧搾法で造られたロゼワインよりも色が濃く、鮮やかなピンクや濃いサーモンピンクになる傾向。&lt;/li&gt;&#xA;&lt;li&gt;味わい： 果皮からの抽出時間が比較的長いため、果実味がしっかりとしており、タンニンも感じられる、ボディのしっかりとした味わいになる。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;ロゼワインの製造法には、このセニエ法の他に、黒ブドウを白ワインのようにすぐに圧搾して造る&lt;a href=&#34;http://localhost:1313/posts/words/directpress&#34;&gt;直接圧搾法&lt;/a&gt;などがある。セニエ法は、直接圧搾法よりも濃い色合いとしっかりとした味わいのロゼワインが生まれるのが特徴。&lt;/p&gt;</description>
     </item>
     <item>
+      <title>デカンタージュ</title>
+      <link>http://localhost:1313/posts/words/decantage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/words/decantage/</guid>
+      <description>&lt;p&gt;ワインを瓶からデカンタ（画像）に移し替えること。&lt;/p&gt;&#xA;&lt;h2 id=&#34;目的&#34;&gt;目的&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-澱おりを取り除く&#34;&gt;1. 澱（おり）を取り除く&lt;/h3&gt;&#xA;&lt;p&gt;長期熟成されたワインには、色素やタンニンなどが結晶化した&lt;a href=&#34;http://localhost:1313/posts/words/ori&#34;&gt;澱&lt;/a&gt;が沈殿していることがある。澱は口当たりが悪く、ざらついた感触があるため、デカンタージュによって澱をグラスに入らないようにする。熟成された&lt;a href=&#34;http://localhost:1313/posts/kinds_of_wines/red&#34;&gt;赤ワイン&lt;/a&gt;が対象。&#xA;光にかざしながらゆっくりと静かにワインをデカンタに注ぎ、澱が瓶口に近づいてきたら注ぐのをやめる。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>テロワール</title>
+      <link>http://localhost:1313/posts/words/terroir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/words/terroir/</guid>
+      <description>&lt;p&gt;ワインをはじめとする農産物の個性を形づくる、複合的な自然環境要因を指す言葉。単に「土壌」や「気候」といった一つの要素ではなく、複数の要素が組み合わさってその土地独自の風味や特徴を生み出すと考えられている。&#xA;テロワールは、同じブドウ品種を使っていても、産地が違えばまったく異なる味わいのワインが生まれる理由を説明する上重要な概念。&#xA;例えば、ブルゴーニュ地方のピノ・ノワールと、カリフォルニアのピノ・ノワールは、テロワールの違いによって異なる個性を持つワインになる。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>バルクワイン</title>
       <link>http://localhost:1313/posts/words/bulkwine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/words/bulkwine/</guid>
-      <description></description>
+      <description>&lt;p&gt;詰めされていない状態で、大型の容器（タンクやコンテナなど）で取引・輸送されるワイン。&#xA;通常、ワインは生産地で瓶詰めされてから消費地へ運ばれるが、バルクワインは、大型容器で輸入された後に消費地で瓶詰めされる。&lt;/p&gt;</description>
     </item>
     <item>
       <title>ブショネ</title>
