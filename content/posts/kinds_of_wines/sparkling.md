@@ -13,7 +13,7 @@ tags:
 3. 果汁をタンクなどに移して発酵させる。途中で不純物（[オリ](/posts/words/ori)）を取り除く。
 
 以下の方式がある
-- [シャンパーニュ方式](/posts/words/champenoise-method))・・・完全に発酵が終わっていない果汁を瓶に詰めて、瓶の中で再発酵（二次発酵）を行う。
+- [シャンパーニュ方式](/posts/words/champenoise-method)・・・完全に発酵が終わっていない果汁を瓶に詰めて、瓶の中で再発酵（二次発酵）を行う。
 - [シャルマー方式](/posts/words/charmat-method)・・・二次発酵をタンク内で行う。
 - [炭酸ガス吹込み方式](/posts/words/carbonation-method)・・・炭酸ガスを吹き込む。
 

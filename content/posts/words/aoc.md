@@ -1,7 +1,7 @@
 ---
 title: AOC(Appellation d'Origine Contrôlée)
 categories: 用語
-thumbnail: "img/aoc.jpg"
+thumbnail: "img/winery.jpg"
 tags:
   - ワイン用語
 ---
