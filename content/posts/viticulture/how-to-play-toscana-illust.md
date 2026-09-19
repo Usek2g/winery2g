@@ -1,7 +1,7 @@
 ---
 title: 「ワイナリーの四季トスカーナ拡張」の遊び方（AIイラスト編）
 categories: ワイナリーの四季
-date: 2026-09-18
+date: 2026-09-19
 thumbnail: "img/how-to-play-toscana.jpg"
 tags:
   - ワイナリーの四季トスカーナ
