@@ -1,7 +1,7 @@
 ---
 title: 勝沼でワイナリー巡りしてきました
 categories: 産地
-date: 2026-10-31
+date: 2026-11-01
 thumbnail: "img/katsunuma.jpg"
 tags:
   - 日本
