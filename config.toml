@@ -2,6 +2,7 @@ baseURL = "https://winery2g.pages.dev/"
 languageCode = "ja"
 title = "ワイナリー2g"
 theme = "mainroad"
+googleAnalytics = "G-XNFEYRP4QB"
 
 hasCJKLanguage = true # 日本語・中国語・韓国語の単語カウントを有効にする
 summaryLength = 60 # サマリーの長さを60単語にする
