@@ -21,4 +21,10 @@ title: ワイナリー2g
 - [いらすとや](https://irasutoya.com)
 - [フリー素材.com](https://www.free-materials.com/)
 
+##### アクセス解析ツールについて
+
+当サイトでは、Googleによるアクセス解析ツール「Google アナリティクス」を利用しています。このGoogle アナリティクスはトラフィックデータの収集のためにCookie（クッキー）を使用しています。トラフィックデータは匿名で収集されており、個人を特定するものではありません。
+
+この機能はCookieを無効にすることで収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。この規約に関しての詳細は[Googleアナリティクスサービス利用規約](https://marketingplatform.google.com/about/analytics/terms/jp/)や[Googleポリシーと規約](https://policies.google.com/technologies/ads?hl=ja)をご覧ください。
+
 ---
